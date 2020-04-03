@@ -10,3 +10,4 @@ hello5
 hello6
 
 koregamaster
+kore
