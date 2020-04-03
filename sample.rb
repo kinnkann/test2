@@ -3,10 +3,4 @@ def hello
 end
 
 hello
-hello
-hello
-hello
-hello5
-hello6
-
-aaa
+hhhaaa
