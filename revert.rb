@@ -6,6 +6,3 @@ aaa
 aaa
 
 www
-
-
-hhhh
